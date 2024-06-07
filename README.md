@@ -1,4 +1,4 @@
-[![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif)]
+![MasterHead](https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif)
 <h1 align="center">Hi 👋, I'm Udayveer Singh Virk</h1>
 <h3 align="center">A passionate cybersecurity enthusiast from Haryana, India</h3>
 <img  align = "right" width=400px src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif" alt="coding_gif" >
